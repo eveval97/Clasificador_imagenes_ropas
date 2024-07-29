@@ -1,5 +1,5 @@
 # Clasificador_imagenes_ropas
-Redes neuronales para clasificar imáenes de prendas de ropa utilizando Keras con TensorFlow.
+Redes neuronales para clasificar imágenes de prendas de ropa utilizando Keras con TensorFlow.
 
 Dataset: https://github.com/zalandoresearch/fashion-mnist
 
